@@ -1,0 +1,1 @@
+This is an application that utilizes the basics of HTML, CSS, JavaScript and jQuery to create a functioning To Do List.
